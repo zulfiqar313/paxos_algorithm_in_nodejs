@@ -1,6 +1,10 @@
-# This is an Implementation of the Paxos Paper in JavaScript.
+# Paxos Paper Implementation in JavaScript
 
-How to compile and run the project in a remote cluster:
+This project is an implementation of the Paxos consensus algorithm in JavaScript. Paxos is a fundamental algorithm used to achieve distributed consensus in distributed systems. It ensures that a group of nodes (often referred to as acceptors and proposers) can agree on a single value even in the presence of network failures and node crashes.
+
+## Getting Started
+
+To compile and run the project on a remote cluster, follow these steps:
 
 => Download the NVM in cluster:
 
